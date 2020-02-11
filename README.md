@@ -34,15 +34,16 @@
 11.	Μπαταρία 12V . Για την κίνηση του ρομπότ. Κόστος megaBAT MB 9-12 Μπαταρία 12V 9Ah 151Χ65Χ95mm  		1*20=20 €
 12.	Διακόπτης ON-OFF (2 τεμάχια). Κόστος MTS-102 3-Pin SPDT ON-OFF-ON 6A Mini Toggle Switch 		2*0,6=1,2 €
 13. Συνδετήρας καλωδίων. Κόστος SET Pair 2.1x5.5mm Male & Female Barrel DC Power Jack Connector 1*0.74=0.74 €
-14. Βreadboard (2 τεμάχια). Κόστος 270 holes breadboard 2*1,98=3.96 €
-15.	Καλώδια. Κόστος	40pcs Small Male to Female Dupont Wires/Cables for Arduino (10cm) (M/F) 1*2.99 =2.99 €
-16. Καλώδια. Κόστος 40Pcs M/F Dupont Wire Jumper Cables 1*3.5=3.5 €
-17. Καλώδια. Κόστος 40Pcs M/F Dupont Wire Jumper Cables 40 cm  1*4.96=4.96 €
-18. Ηλεκτρολογικό κανάλι
-19.	Χαρτόνι. 
-20.	Κόλλα.
-21.	Βίδες. 
-22.	Σκαμπό (2 τεμάχια επαναχρησιμοποιούμενα). Για το σκελετό του ρομπότ. 
-23.	T-shirt (επαναχρησιμοποιούμενο).
+14. Βreadboard. Κόστος 270 holes breadboard 1*1.98=1.98 €
+15. Βreadboard (2 τεμάχια). Κόστος White Solderless Prototype Breadboard 170 Tie-points for Arduino 2*1,30=2.6 €
+16.	Καλώδια. Κόστος	40pcs Small Male to Female Dupont Wires/Cables for Arduino (10cm) (M/F) 1*2.99 =2.99 €
+17. Καλώδια. Κόστος 40Pcs M/F Dupont Wire Jumper Cables 1*3.5=3.5 €
+18. Καλώδια. Κόστος 40Pcs M/F Dupont Wire Jumper Cables 40 cm  1*4.96=4.96 €
+19. Ηλεκτρολογικό κανάλι
+20.	Χαρτόνι. 
+21.	Κόλλα.
+22.	Βίδες. 
+23.	Σκαμπό (2 τεμάχια επαναχρησιμοποιούμενα). Για το σκελετό του ρομπότ. 
+24.	T-shirt (επαναχρησιμοποιούμενο).
 
-ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ ΥΛΙΚΩΝ (Εκτίμηση)		135.21 €
+ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ ΥΛΙΚΩΝ (Εκτίμηση)		135.83 €
